@@ -47,5 +47,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
-raw_data/
+data-raw/
 *.Rproj
